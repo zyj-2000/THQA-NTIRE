@@ -17,6 +17,21 @@
 - [x] **Release Homepage.**
 - [x] **Release CodaLab.**
 
+## 👀 demo
+<p align="center">
+
+<br/>
+<img alt="thqa" src="./pic/2_fooocus_common_voice_en_35058329_audio2head.gif" width="19%">
+<img alt="thqa" src="./pic/2_fooocus_common_voice_en_35058329_dreamtalk.gif" width="19%"> 
+<img alt="thqa" src="./pic/2_fooocus_common_voice_en_35058329_emogen.gif" width="19%">
+<img alt="thqa" src="./pic/2_fooocus_common_voice_en_35058329_sadtalker.gif" width="19%">
+<img alt="thqa" src="./pic/2_fooocus_common_voice_en_35058329_wavlip.gif" width="19%">
+<br/>
+<img alt="thqa" src="./pic/6795937_SEN_go_change_your_shoes_before_you_turn_around_qp_level_7.gif" width="30%">
+<img alt="thqa" src="./pic/6795937_SEN_go_change_your_shoes_before_you_turn_around_qt_level_5.gif" width="30%">
+<img alt="thqa" src="./pic/6795937_SEN_go_change_your_shoes_before_you_turn_around_qt_level_7.gif" width="30%"> 
+<br/>
+
 ## 🛳️ Related Works
 [ICIP24] [THQA: A Perceptual Quality Assessment Database for Talking Heads](https://arxiv.org/abs/2404.09003) | [GitHub](https://github.com/zyj-2000/THQA)
 
