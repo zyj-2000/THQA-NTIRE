@@ -18,9 +18,9 @@
 - [x] **Release CodaLab.**
 
 ## 🛳️ Related Works
-[ICIP24] [THQA: A Perceptual Quality Assessment Database for Talking Heads](https://arxiv.org/abs/2404.09003)
+[ICIP24] [THQA: A Perceptual Quality Assessment Database for Talking Heads](https://arxiv.org/abs/2404.09003) | [GitHub](https://github.com/zyj-2000/THQA)
 
-[MM24] [Subjective and Objective Quality-of-Experience Assessment for 3D Talking Heads](https://dl.acm.org/doi/10.1145/3664647.3680964)
+[MM24] [Subjective and Objective Quality-of-Experience Assessment for 3D Talking Heads](https://dl.acm.org/doi/10.1145/3664647.3680964) | [GitHub](https://github.com/zyj-2000/THQA-3D)
 
 ## Dataset Access:
 
