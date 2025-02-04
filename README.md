@@ -6,6 +6,21 @@
 <img alt="thqa" src="./pic/logo.png" width="100%">
 <br/>
 
+## 🎉 Motivation
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;In the field of media technology, digital humans have garnered significant attention due to rapid advancements in computer graphics and artificial intelligence. These technological developments have facilitated the emergence of immersive communication, a novel paradigm that enhances conversational experiences through the transmission of talking heads. While numerous speech-driven methods for synthesizing talking head (TH) videos have been proposed, the suboptimal quality of many generated outputs remains a critical concern, adversely impacting user visual experiences. Consequently, quality assessment of synthesized talking heads has emerged as a pivotal research challenge. Establishing effective quality assessment methods to accurately predict TH video quality is imperative to advance digital human media development and optimize human-digital interaction experiences.
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;Jointly with the NTIRE workshop, we have an NTIRE challenge on talking head video quality assessment, that is, the task of predicting the perceptual quality of a talking head video based on a set of prior examples of talking head video and their perceptual quality labels. The aim is to obtain a network design/solution capable of producing high-quality results with the best correlation to the reference ground truth (i.e., Mean Opinion Score, MOS).
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;This track uses a new dataset called Quality Assessment Dataset for Talking Heads Quality Assessment(THQA). The dataset contains in total of 12,247 Talking Heads videos. Specifically, the training set contains 8,927 Talking Head videos, with the validation set 1,714 and the test set 1,606. All sets follow the same rating procedure as the training set. More details are found in the "get data" section of the competition, under the "participate" tab.
+</p>
+<p>
+    &nbsp;&nbsp;&nbsp;&nbsp;The top-ranked participants will be awarded and invited to follow the CVPR submission guide for workshops to describe their solutions and to submit to the associated NTIRE workshop at CVPR 2025.
+</p>
+
+
 ## 🔥 Update
 - 2025.02.04 - 💻 CodaLab is released.
 - 2025.02.03 - 🎉 NTIRE-Dataset released.
