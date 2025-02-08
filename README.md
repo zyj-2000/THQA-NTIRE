@@ -22,6 +22,7 @@
 
 
 ## 🔥 Update
+- 2025.02.08 - 🎉 Submission formats and baseline are released.
 - 2025.02.04 - 💻 CodaLab is released.
 - 2025.02.03 - 🎉 NTIRE-Dataset released.
 - 2025.02.03 - 🛳️ This repo is released.
@@ -57,6 +58,10 @@
 
 ## Dataset Access:
 
-[Huggingface: All in one](https://huggingface.co/datasets/zyj2000/THQA-NTIRE/tree/main) | [百度网盘: train.zip](https://pan.baidu.com/s/1sCk5y4FFm5QwW4VhZojDAQ?pwd=thqa) | [百度网盘: val.zip](https://pan.baidu.com/s/1MSZq0Ol-pbVdJ5HqDjJ96g?pwd=thqa) | [Github: thqa_ntire_train.csv](https://github.com/zyj-2000/THQA-NTIRE/blob/main/thqa_ntire_train.csv)
+[Huggingface: All in one](https://huggingface.co/datasets/zyj2000/THQA-NTIRE/tree/main) | [百度网盘: train.zip](https://pan.baidu.com/s/1sCk5y4FFm5QwW4VhZojDAQ?pwd=thqa) | [百度网盘: val.zip](https://pan.baidu.com/s/1MSZq0Ol-pbVdJ5HqDjJ96g?pwd=thqa) | [Github: thqa_ntire_train.csv](https://github.com/zyj-2000/THQA-NTIRE/blob/main/thqa_ntire_train.csv) | [Github: thqa_ntire_vallist.csv](https://github.com/zyj-2000/THQA-NTIRE/blob/main/thqa_ntire_vallist.csv)
+
+## Other Files:
+
+[Baseline and Submission Example (Score=0.7892)](https://github.com/zyj-2000/THQA-NTIRE/blob/main/baseline_example.zip) 
 
 
