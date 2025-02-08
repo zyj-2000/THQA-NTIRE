@@ -65,3 +65,9 @@
 [Baseline and Submission Example (Score=0.7892)](https://github.com/zyj-2000/THQA-NTIRE/blob/main/baseline_example.zip) 
 
 
+## Wechat Group (微信群):
+The QR code on the left is for the Track 3: Talking Head group and the QR code on the right is for the XGC Quliaty Assessment （including Track 1~3）group.
+
+<img src="pic/THQAgroup.jpg" width=290/> <img src="pic/XGCgroup.jpg" width=200/>
+
+
