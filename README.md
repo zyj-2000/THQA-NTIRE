@@ -8,7 +8,7 @@
  
 ## 🎉 Update: Test Stage Begin
  
-[HuggingFace] | [百度网盘: test.zip](https://pan.baidu.com/s/12AHOUJSEpwCL0LS25fwdwA?pwd=thqa) | [Github: thqa_ntire_testlist.csv]
+[HuggingFace](https://huggingface.co/datasets/zyj2000/THQA-NTIRE/tree/main) | [百度网盘: test.zip](https://pan.baidu.com/s/12AHOUJSEpwCL0LS25fwdwA?pwd=thqa) | [Github: thqa_ntire_testlist.csv](https://github.com/zyj-2000/THQA-NTIRE/blob/main/thqa_ntire_testlist.csv)
 
 ## 🎉 Motivation
 
