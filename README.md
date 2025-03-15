@@ -5,8 +5,13 @@
 <p align="center">
 <img alt="thqa" src="./pic/logo.png" width="100%">
 <br/>
+ 
+## 🎉 Update: Test Stage Begin
+ 
+[HuggingFace] | [百度网盘: test.zip](https://pan.baidu.com/s/12AHOUJSEpwCL0LS25fwdwA?pwd=thqa) | [Github: thqa_ntire_testlist.csv]
 
 ## 🎉 Motivation
+
 <p>
     &nbsp;&nbsp;&nbsp;&nbsp;In the field of media technology, digital humans have garnered significant attention due to rapid advancements in computer graphics and artificial intelligence. These technological developments have facilitated the emergence of immersive communication, a novel paradigm that enhances conversational experiences through the transmission of talking heads. While numerous speech-driven methods for synthesizing talking head (TH) videos have been proposed, the suboptimal quality of many generated outputs remains a critical concern, adversely impacting user visual experiences. Consequently, quality assessment of synthesized talking heads has emerged as a pivotal research challenge. Establishing effective quality assessment methods to accurately predict TH video quality is imperative to advance digital human media development and optimize human-digital interaction experiences.
 </p>
