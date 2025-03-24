@@ -20,7 +20,7 @@
 | USTC-AC |  |  |  |
 | XIDIAN-VQATeam |  |  |  |
  </div> 
- ps: Sort by first alphabet
+ <p>Ps: Sort by first alphabet</p>
  
 ## 🎉 Update: Test Stage Begin
  
