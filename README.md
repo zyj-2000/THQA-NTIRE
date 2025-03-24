@@ -5,6 +5,22 @@
 <p align="center">
 <img alt="thqa" src="./pic/logo.png" width="100%">
 <br/>
+
+## 🎉 Congratulation：
+<div align="center">
+ 
+| Team | Score | SRCC | PLCC |
+|---------|---------|---------|---------|
+| AutoHome AIGC |  |  |  |
+| FocusQ |  |  |  |
+| LVGroup_HFUT |  |  |  |
+| MediaForensics |  |  |  |
+| QA Team |  |  |  |
+| SJTU-MOE-AI |  |  |  |
+| USTC-AC |  |  |  |
+| XIDIAN-VQATeam |  |  |  |
+ </div> 
+ ps: 
  
 ## 🎉 Update: Test Stage Begin
  
