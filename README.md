@@ -9,16 +9,17 @@
 ## 🎉 Congratulation：
 <div align="center">
  
-| Team | Score | SRCC | PLCC |
-|---------|---------|---------|---------|
-| AutoHome AIGC |  |  |  |
-| FocusQ |  |  |  |
-| LVGroup_HFUT |  |  |  |
-| MediaForensics |  |  |  |
-| QA Team |  |  |  |
-| SJTU-MOE-AI |  |  |  |
-| USTC-AC |  |  |  |
-| XIDIAN-VQATeam |  |  |  |
+| Rank | Team | Score | SRCC | PLCC |
+| ------ |---------|---------|---------|---------|
+| 1 | QA Team | 0.8245 | 0.8036 | 0.8453 |
+| 2 | MediaForensics | 0.8236 | 0.8024 | 0.8448 |
+| 3 | AutoHome AIGC | 0.8047 | 0.7864 | 0.8229 |
+| 4 | USTC-AC | 0.8044 | 0.7813 | 0.8275 |
+| 5 | SJTU-MOE-AI | 0.8003 | 0.7797 | 0.8209 |
+| 6 | FocusQ | 0.7922 | 0.7708 | 0.8135 |
+| 7 | NJUST-KMG | 0.7896 | 0.7599 | 0.8193 |
+| 8 | XIDIAN-VQATeam | 0.7873 | 0.7730 | 0.8015 |
+| 9 | LVGroup_HFUT | 0.3049 | 0.3082 | 0.3015 |
  </div> 
  <p>Ps: Sort by first alphabet</p>
  
