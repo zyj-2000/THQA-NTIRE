@@ -21,7 +21,6 @@
 | 8 | XIDIAN-VQATeam | 0.7873 | 0.7730 | 0.8015 |
 | 9 | LVGroup_HFUT | 0.3049 | 0.3082 | 0.3015 |
  </div> 
- <p>Ps: Sort by first alphabet</p>
  
 ## 🎉 Update: Test Stage Begin
  
